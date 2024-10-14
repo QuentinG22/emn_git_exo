@@ -1,4 +1,4 @@
-# Modification Amina
+# Roman numerals kata
 
 The Roman numerals kata attempts to create a conversion mechanism from integers
 to a Roman representation (a string):
